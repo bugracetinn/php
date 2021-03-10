@@ -1,2 +1,0 @@
-# phpcods
-php kodları
